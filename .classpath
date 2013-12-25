@@ -13,5 +13,21 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="libs/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="libs/eclipselink.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-jaxrs-1.9.2.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-xc-1.9.2.jar"/>
+	<classpathentry kind="lib" path="libs/jersey-client-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/jersey-core-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/jersey-json-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/jersey-server-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/jersey-servlet-1.17.jar"/>
+	<classpathentry kind="lib" path="libs/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="libs/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="libs/mysql-connector-java-5.1.25-bin.jar"/>
+	<classpathentry kind="lib" path="libs/javax.servlet.jsp.jstl-1.2.1.jar"/>
+	<classpathentry kind="lib" path="libs/javax.persistence_1.0.0.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
